@@ -1,0 +1,24 @@
+// Style Guide
+
+// Palette Colours.
+$white: #fff;
+$black: #000;
+$red-light: #c00;
+$grey-lightest: #f0f0f0;
+$grey-light-bg: #ded5cc;
+$grey-light: #ccc;
+$placeholder-grey: #757778;
+
+// Backgrounds.
+$hover-blue: #0892cb;
+
+// Breakpoints
+$mobile-width: 20em;
+$mobile-max: 47.9375em;
+$tablet-width: 48em;
+$desktop-width: 64em;
+
+$mobile-mq: "screen and (min-width: #{$mobile-width})";
+$mobile-mq-max: "screen and (max-width: #{$mobile-max})";
+$tablet-mq: "screen and (min-width: #{$tablet-width})";
+$desktop-mq: "screen and (min-width: #{$desktop-width})";

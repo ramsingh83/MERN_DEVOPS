@@ -1,0 +1,17 @@
+@import './scss/main';
+
+.app {
+  display: flex;
+  background: $grey-light-bg;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+  .search-input {
+    padding: 10px 20px 10px 20px;
+    border: 1px solid $grey-lightest;
+    margin: 0px;
+    border-radius: 25px;
+    outline: none;
+  }
+}
