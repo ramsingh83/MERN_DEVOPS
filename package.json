@@ -1,7 +1,8 @@
 {
-  "name": "react-framework",
+  "name": "mern-devops",
   "version": "1.0.0",
   "description": "basic dev setup for reactjs development",
+  "homepage": "https://rmsingh83.github.io/MERN_DEVOPS/",
   "main": "bootstrap.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-serve --open --port 3000",
