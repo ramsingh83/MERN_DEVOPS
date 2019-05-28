@@ -1,7 +1,7 @@
 {
   "name": "mern-devops",
   "version": "1.0.0",
-  "description": "basic dev setup for reactjs development",
+  "description": "Basic setup for mern with travis CI",
   "homepage": "https://rmsingh83.github.io/MERN_DEVOPS/",
   "main": "bootstrap.js",
   "scripts": {
