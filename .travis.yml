@@ -5,13 +5,11 @@ cache:
   directories:
   - node_modules
 script:
-  - npm test
-  - npm run e2e
   - npm run build
 deploy:
   provider: pages
-  github_token: 192927f1c3c754da0f12dfd1eaef204ca3e00e61
   skip_cleanup: true
-  local_dir: build
+  github_token: 192927f1c3c754da0f12dfd1eaef204ca3e00e61
+  keep_history: true
   on:
     branch: master
