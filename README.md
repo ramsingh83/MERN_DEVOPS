@@ -55,3 +55,6 @@ you can save this config with any ext.
   you will see below message on console after successfull connection.
   `server is running on port:4000`
   `Database is connected`
+
+## CI/CD
+  Follow the instruction given on https://medium.com/@bezgachev/6-simple-steps-to-automatically-test-and-deploy-your-javascript-app-to-github-pages-c4c32a34bcb1
